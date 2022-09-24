@@ -13,7 +13,7 @@ Web server pada monta.if.its.ac.id
 -	Di sebelah kanan nama web akan ada IP address untuk web server tersebut
 -	Web server yang digunakan adalah Nginx
 -	Dokumentasi
-![](https://github.com/AfiraRolobessy03/gambar-modul-1-jarkom/blob/main/image.png)
+![](https://github.com/AfiraRolobessy03/gambar-modul-1-jarkom/blob/main/Gambar1.png)
 
 
 ## Soal 2
